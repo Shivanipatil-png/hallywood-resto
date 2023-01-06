@@ -1,0 +1,9 @@
+svg{
+    size: 2px;
+}
+.bi bi-facebook{
+    margin: 10px;
+}
+.me-5 d-none d-lg-block >a>svg{
+    margin:10 px;
+}
